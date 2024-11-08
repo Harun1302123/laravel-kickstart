@@ -1,0 +1,42 @@
+
+{
+  "name": "laravel-kickstart",
+  "displayName": "Laravel Kickstart - Useful Laravel Extension Pack",
+  "description": "A handpicked collection of useful VS Code extension packs designed to simplify Laravel development",
+  "publisher": "Harun1302123",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Other"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harun1302123/laravel-kickstart.git"
+  },
+  "homepage": "https://github.com/Harun1302123/laravel-kickstart/blob/master/README.md",
+  "pricing": "Free",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#070C22",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "MD HARUNUR RASHID",
+    "url": "https://github/Harun1302123"
+  },
+  "extensionPack": [
+    "bmewburn.vscode-intelephense-client",
+    "kokororin.vscode-phpfmt",
+    "mehedidracula.php-namespace-resolver",
+    "mikestead.dotenv",
+    "shufo.vscode-blade-formatter",
+    "austenc.laravel-blade-spacer",
+    "pgl.laravel-jump-controller",
+    "codingyu.laravel-goto-view",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "naoray.laravel-goto-components"
+  ]
+}
